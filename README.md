@@ -1,5 +1,5 @@
 ### krdq-sourse
-[![p0lunin's statistics](https://github-readme-stats.vercel.app/api?usernamekrdq-sourse&show_icons=true&theme=onedark)](#)
+[![p0lunin's statistics](https://github-readme-stats.vercel.app/api?username=krdq-sourse&show_icons=true&theme=onedark)](#)
 
 <!--
 **krdq-sourse/krdq-sourse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
